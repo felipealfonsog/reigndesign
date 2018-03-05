@@ -1,6 +1,5 @@
 # Reigndesign test proyect
-# This proyect was developed by Felipe Alfonso Gonzalez
-# Any questions please write to : f.alfonso.go@gmail.com 
+Developed by Soft. Engr./Developer Felipe Alfonso González
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
